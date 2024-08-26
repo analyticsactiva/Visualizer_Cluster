@@ -1,0 +1,17 @@
+credentials:
+  usernames:
+    analytics:
+      email: analytics@activasite.com
+      name: Analytics
+      password: Baf60255 # To be replaced with hashed password
+    activa:
+      email: activachile@activasite.com
+      name: Activa
+      password: activa1 # To be replaced with hashed password
+cookie:
+  expiry_days: 30
+  key: random_signature_key # Must be string
+  name: random_cookie_name
+preauthorized:
+  emails:
+    - melsby@gmail.com
